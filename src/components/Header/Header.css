@@ -1,0 +1,35 @@
+.header-bar {
+  margin-bottom: 25px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+}
+.links {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #8a0fbf;
+}
+.links:hover {
+  color: #41d2f2;
+}
+.brandLogo {
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+  color: #8a0fbf;
+}
+.brandLogo:hover {
+  color: #41d2f2;
+}
+.my-button-2 {
+  margin-left: 5px;
+  border-radius: 5px;
+  border: 1px solid #8a0fbf;
+  color: #8a0fbf;
+}
+.my-button-2:hover {
+  
+  border: 1px solid #41d2f2;
+  color: #41d2f2;
+}

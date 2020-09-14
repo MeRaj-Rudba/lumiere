@@ -1,0 +1,36 @@
+.auth-card {
+  height: 700px;
+}
+.label-text {
+  font-family: "Josefin Sans", sans-serif;
+  color: #22a2f2;
+}
+
+.my-button {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 20px;
+  background-color: #8a0fbf;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px 25px;
+}
+.margin-top{
+  margin-top: 40px;
+}
+.login-panel{
+  background-image: url('../Img/pic10.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}
+.dumb-option{
+  font-size: 1.3rem;
+  color: #9b9b9b;
+  font-family: "Josefin Sans", sans-serif;
+}
+.date-special{
+  margin-bottom: 0px ;
+  padding-bottom: 0px;
+}
